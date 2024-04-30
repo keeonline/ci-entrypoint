@@ -54,5 +54,5 @@ jobs:
   #   uses: keeonline/poc-github-app-pipelines/.github/workflows/app_image_hotfix_on_push.yml
   push-to-feature:
     name: Push to feature
-    uses: keeonline/poc-github-app-pipelines/.github/workflows/app_image_feature_on_push.yml
+    uses: keeonline/poc-github-app-pipelines/.github/workflows/app_image_feature_on_push.yml@v0.0.3
  
